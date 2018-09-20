@@ -1,0 +1,4 @@
+---- OSAL_InitTasks Matches (3 in 3 files) ----
+Main.c (pro):	OSAL_InitTasks();
+OSAL_Tasks.c (osal):void OSAL_InitTasks( void )
+OSAL_Tasks.h (osal):void OSAL_InitTasks( void );
