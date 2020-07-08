@@ -1,2 +1,4 @@
 # HX43UCRRL
 OSAL架构
+
+可以移植，IC使用SC95F7513
